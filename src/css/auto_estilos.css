@@ -1,0 +1,70 @@
+.automotor {
+    display: flex;
+}
+
+.mainT {
+    width: 85vw;
+    margin-bottom: 3rem!important;
+}
+
+.mainT h4 {
+    font-size: 2rem;
+}
+
+#volver {
+    cursor: pointer;
+    font-size: 25px;
+    color: rgb(58, 58, 58);
+}
+
+.subT {
+    font-size: 1.3rem;
+    margin-left: 10px;
+    color: rgb(58, 58, 58);
+}
+
+.card_auto {
+    width: 60%;
+    margin: 10% auto;
+    border: rgb(211, 210, 210) solid 1px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card_header {
+    background-color: rgb(235, 236, 238);
+    color: #6ebe64;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    border-bottom: rgb(211, 210, 210) solid 1px;
+}
+
+.card_header .icono {
+    padding: 0 10px;
+    margin-top: 10px;
+}
+
+.card_header p {
+    margin-top: 10px;
+}
+
+#patente {
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 1.4rem;
+    border-radius: 6px;
+}
+
+.form-group p {
+    margin-left: 15px;
+    color: rgb(131, 128, 128);
+}
+
+.btn-claro {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    font-size: 1.4rem;
+}
